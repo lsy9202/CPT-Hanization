@@ -4093,7 +4093,7 @@ p, li { white-space: pre-wrap; }
 		<message>
 			<location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14181"/>
 			<source>Alt+W</source>
-			<translation>Alt + W</translation>
+			<translation>Alt+W</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14212"/>
@@ -4103,7 +4103,7 @@ p, li { white-space: pre-wrap; }
 		<message>
 			<location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14215"/>
 			<source>Alt+V</source>
-			<translation>Alt + V</translation>
+			<translation>Alt+V</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14243"/>
@@ -4153,7 +4153,7 @@ p, li { white-space: pre-wrap; }
 		<message>
 			<location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14375"/>
 			<source>Alt+P</source>
-			<translation>Alt + P</translation>
+			<translation>Alt+P</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14408"/>
@@ -4163,7 +4163,7 @@ p, li { white-space: pre-wrap; }
 		<message>
 			<location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14411"/>
 			<source>Alt+T</source>
-			<translation>Alt + T</translation>
+			<translation>Alt+T</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14399"/>
@@ -4287,7 +4287,7 @@ Enter a value in the Index Variable text field to use a variable to determine th
 		<message>
 			<location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14582"/>
 			<source>Ctrl+W</source>
-			<translation>Ctrl + W</translation>
+			<translation>Ctrl+W</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14489"/>
@@ -4298,7 +4298,7 @@ Enter a value in the Index Variable text field to use a variable to determine th
 		<message>
 			<location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14498"/>
 			<source>Ctrl+Shift+S</source>
-			<translation>Ctrl + Shift + S</translation>
+			<translation>Ctrl+Shift+S</translation>
 		</message>
 	</context>
 	<context>
@@ -4555,7 +4555,7 @@ Author: Michael Wang
 
 
 Contact: miwang@cisco.com</source>
-			<translation>　　本CAI分配IP地址自动设备。
+			<translation>本CAI分配IP地址自动设备。
 　　
 　　
 　　
@@ -4616,7 +4616,7 @@ Author: Michael Wang
 
 
 Contact: miwang@cisco.com</source>
-			<translation>　　本CAI分配IP地址自动设备。
+			<translation>本CAI分配IP地址自动设备。
 　　
 　　
 　　
@@ -6526,7 +6526,7 @@ p, li { white-space: pre-wrap; }
 		<message>
 			<location filename="../gui/DeviceConfig/ASA/CASADialog.cpp" line="8"/>
 			<source>Equivalent ASA Commands</source>
-			<translation>相当于ASA命令</translation>
+			<translation>等效ASA命令</translation>
 		</message>
 	</context>
 	<context>
@@ -7691,7 +7691,7 @@ p, li { white-space: pre-wrap; }
 		<message>
 			<location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="717"/>
 			<source>Alt+D</source>
-			<translation>Alt + D</translation>
+			<translation>Alt+D</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="732"/>
@@ -12579,7 +12579,7 @@ Port</source>
 		<message>
 			<location filename="../gui/AppWindow.cpp" line="980"/>
 			<source>Ctrl+H</source>
-			<translation>Ctrl + H</translation>
+			<translation>Ctrl+H</translation>
 		</message>
 		<message>
 			<location filename="../gui/AppWindow.cpp" line="1591"/>
@@ -13485,7 +13485,7 @@ Port</source>
 		<message>
 			<location filename="../gui/AppWindow.cpp" line="5455"/>
 			<source>&amp;Update and Make a Copy</source>
-			<translation>更新和复制</translation>
+			<translation>更新和复制(&amp;U)</translation>
 		</message>
 		<message>
 			<location filename="../gui/AppWindow.cpp" line="5481"/>
@@ -13550,7 +13550,7 @@ Port</source>
 		<message>
 			<location filename="../gui/DesignerFiles/AppWindowBase.ui" line="720"/>
 			<source>E&amp;xtensions</source>
-			<translation>E&amp;xtensions</translation>
+			<translation>扩展(&amp;X)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/AppWindowBase.ui" line="724"/>
@@ -13570,18 +13570,18 @@ Port</source>
 		<message>
 			<location filename="../gui/DesignerFiles/AppWindowBase.ui" line="696"/>
 			<source>&amp;Zoom</source>
-			<translation>变焦</translation>
+			<translation>缩放(&amp;Z)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/AppWindowBase.ui" line="662"/>
 			<source>&amp;File</source>
-			<translation>文件</translation>
+			<translation>文件(&amp;F)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/AppWindowBase.ui" line="154"/>
 			<location filename="../gui/DesignerFiles/AppWindowBase.ui" line="160"/>
 			<source>Logical Mode (Shift+L)</source>
-			<translation>逻辑模式(Shift + L)</translation>
+			<translation>逻辑模式(Shift+L)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/AppWindowBase.ui" line="157"/>
@@ -13597,7 +13597,7 @@ Port</source>
 			<location filename="../gui/DesignerFiles/AppWindowBase.ui" line="182"/>
 			<location filename="../gui/DesignerFiles/AppWindowBase.ui" line="188"/>
 			<source>Physical Mode (Shift+P)</source>
-			<translation>物理模式(Shift + P)</translation>
+			<translation>物理模式(Shift+P)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/AppWindowBase.ui" line="185"/>
@@ -13613,7 +13613,7 @@ Port</source>
 			<location filename="../gui/DesignerFiles/AppWindowBase.ui" line="450"/>
 			<location filename="../gui/DesignerFiles/AppWindowBase.ui" line="456"/>
 			<source>Realtime Mode (Shift+R)</source>
-			<translation>实时模式(Shift + R)</translation>
+			<translation>实时模式(Shift+R)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/AppWindowBase.ui" line="453"/>
@@ -13629,7 +13629,7 @@ Port</source>
 			<location filename="../gui/DesignerFiles/AppWindowBase.ui" line="481"/>
 			<location filename="../gui/DesignerFiles/AppWindowBase.ui" line="487"/>
 			<source>Simulation Mode (Shift+S)</source>
-			<translation>模拟模式(Shift + S)</translation>
+			<translation>模拟模式(Shift+S)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/AppWindowBase.ui" line="484"/>
@@ -13649,17 +13649,17 @@ Port</source>
 		<message>
 			<location filename="../gui/DesignerFiles/AppWindowBase.ui" line="676"/>
 			<source>&amp;Edit</source>
-			<translation>思想</translation>
+			<translation>编辑(&amp;E)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/AppWindowBase.ui" line="684"/>
 			<source>&amp;Options</source>
-			<translation>选项</translation>
+			<translation>选项(&amp;O)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/AppWindowBase.ui" line="692"/>
 			<source>&amp;View</source>
-			<translation>视图</translation>
+			<translation>视图(&amp;V)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/AppWindowBase.ui" line="701"/>
@@ -13669,12 +13669,12 @@ Port</source>
 		<message>
 			<location filename="../gui/DesignerFiles/AppWindowBase.ui" line="712"/>
 			<source>&amp;Tools</source>
-			<translation>工具</translation>
+			<translation>工具(&amp;T)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/AppWindowBase.ui" line="747"/>
 			<source>&amp;Help</source>
-			<translation>和帮助</translation>
+			<translation>帮助(&amp;H)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/AppWindowBase.ui" line="769"/>
@@ -15839,7 +15839,7 @@ p, li { white-space: pre-wrap; }
 		<message>
 			<location filename="../gui/DesignerFiles/MainGUIComponents/BaseCheckAnswerPage.ui" line="387"/>
 			<source>&lt;b&gt;text&lt;/b&gt;</source>
-			<translation>&lt;b&gt;text&lt;/b&gt;</translation>
+			<translation>&lt;b&gt;文本&lt;/b&gt;</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/MainGUIComponents/BaseCheckAnswerPage.ui" line="381"/>
@@ -15882,7 +15882,7 @@ p, li { white-space: pre-wrap; }
 		<message>
 			<location filename="../gui/DesignerFiles/MainGUIComponents/BaseCheckAnswerPage.ui" line="620"/>
 			<source>&amp;Close</source>
-			<translation>关闭</translation>
+			<translation>关闭(&amp;C)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/MainGUIComponents/BaseCheckAnswerPage.ui" line="623"/>
@@ -16692,7 +16692,7 @@ Removing Modules: Drag the module from the device to the module list.</source>
 			<location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="884"/>
 			<location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="887"/>
 			<source>Equivalent IOS Commands</source>
-			<translation>相当于IOS命令</translation>
+			<translation>等效IOS命令</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="956"/>
@@ -16733,7 +16733,7 @@ Router(config)#&lt;/font&gt;</translation>
 		<message>
 			<location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="1078"/>
 			<source>Ctrl+F6 to exit CLI focus</source>
-			<translation>Ctrl + F6退出CLI的焦点</translation>
+			<translation>Ctrl+F6退出CLI的焦点</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="1104"/>
@@ -16750,7 +16750,7 @@ Router(config)#&lt;/font&gt;</translation>
 		<message>
 			<location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="1116"/>
 			<source>Ctrl+Ins</source>
-			<translation>Ctrl + Ins</translation>
+			<translation>Ctrl+Ins</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="1126"/>
@@ -16773,7 +16773,7 @@ Router(config)#&lt;/font&gt;</translation>
 		<message>
 			<location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="1138"/>
 			<source>Shift+Ins</source>
-			<translation>Shift + Ins</translation>
+			<translation>Shift+Ins</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="1372"/>
@@ -18497,7 +18497,7 @@ p, li { white-space: pre-wrap; }
 		<message>
 			<location filename="../gui/DesignerFiles/Common/BaseInfoDialog.ui" line="20"/>
 			<source>about:blank</source>
-			<translation>:空白</translation>
+			<translation>about:blank</translation>
 		</message>
 	</context>
 	<context>
@@ -18773,25 +18773,25 @@ p, li { white-space: pre-wrap; }
 			<location filename="../gui/DesignerFiles/Switches/BaseLogicalToolbar.ui" line="177"/>
 			<location filename="../gui/DesignerFiles/Switches/BaseLogicalToolbar.ui" line="180"/>
 			<source>Create New Cluster (Shift+U)</source>
-			<translation>创建新集群(Shift + U)</translation>
+			<translation>创建新集群(Shift+U)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Switches/BaseLogicalToolbar.ui" line="202"/>
 			<location filename="../gui/DesignerFiles/Switches/BaseLogicalToolbar.ui" line="205"/>
 			<source>Move Object(Shift+M)</source>
-			<translation>移动对象(Shift + M)</translation>
+			<translation>移动对象(Shift+M)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Switches/BaseLogicalToolbar.ui" line="227"/>
 			<location filename="../gui/DesignerFiles/Switches/BaseLogicalToolbar.ui" line="230"/>
 			<source>Set Background Image (Shift+I)</source>
-			<translation>设置背景图像(Shift + I)</translation>
+			<translation>设置背景图像(Shift+I)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Switches/BaseLogicalToolbar.ui" line="249"/>
 			<location filename="../gui/DesignerFiles/Switches/BaseLogicalToolbar.ui" line="252"/>
 			<source>Environment (Shift+E)</source>
-			<translation>环境(Shift + E)</translation>
+			<translation>环境(Shift+E)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Switches/BaseLogicalToolbar.ui" line="255"/>
@@ -19759,7 +19759,7 @@ Destination:</source>
 			<location filename="../gui/DesignerFiles/Switches/BasePhysicalToolbar.ui" line="124"/>
 			<location filename="../gui/DesignerFiles/Switches/BasePhysicalToolbar.ui" line="127"/>
 			<source>Navigation Panel (Shift+N)</source>
-			<translation>导航面板(Shift + N)</translation>
+			<translation>导航面板(Shift+N)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Switches/BasePhysicalToolbar.ui" line="149"/>
@@ -19776,25 +19776,25 @@ Destination:</source>
 			<location filename="../gui/DesignerFiles/Switches/BasePhysicalToolbar.ui" line="177"/>
 			<location filename="../gui/DesignerFiles/Switches/BasePhysicalToolbar.ui" line="180"/>
 			<source>Create New City(Shift+C)</source>
-			<translation>创建新城市(Shift + C)</translation>
+			<translation>创建新城市(Shift+C)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Switches/BasePhysicalToolbar.ui" line="202"/>
 			<location filename="../gui/DesignerFiles/Switches/BasePhysicalToolbar.ui" line="205"/>
 			<source>Create New Building (Shift+B)</source>
-			<translation>创建新建筑(Shift + B)</translation>
+			<translation>创建新建筑(Shift+B)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Switches/BasePhysicalToolbar.ui" line="227"/>
 			<location filename="../gui/DesignerFiles/Switches/BasePhysicalToolbar.ui" line="230"/>
 			<source>Create New Generic Container (Shift+F)</source>
-			<translation>创建新的通用容器(Shift + F)</translation>
+			<translation>创建新的通用容器(Shift+F)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Switches/BasePhysicalToolbar.ui" line="252"/>
 			<location filename="../gui/DesignerFiles/Switches/BasePhysicalToolbar.ui" line="255"/>
 			<source>Create New Closet (Shift+W)</source>
-			<translation>创建新的衣柜(Shift + W)</translation>
+			<translation>创建新的衣柜(Shift+W)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Switches/BasePhysicalToolbar.ui" line="302"/>
@@ -19806,31 +19806,31 @@ Destination:</source>
 			<location filename="../gui/DesignerFiles/Switches/BasePhysicalToolbar.ui" line="327"/>
 			<location filename="../gui/DesignerFiles/Switches/BasePhysicalToolbar.ui" line="330"/>
 			<source>Move Object(Shift+M)</source>
-			<translation>移动对象(Shift + M)</translation>
+			<translation>移动对象(Shift+M)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Switches/BasePhysicalToolbar.ui" line="352"/>
 			<location filename="../gui/DesignerFiles/Switches/BasePhysicalToolbar.ui" line="355"/>
 			<source>Grid Preferences (Shift+G)</source>
-			<translation>网格的偏好(Shift + G)</translation>
+			<translation>网格的偏好(Shift+G)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Switches/BasePhysicalToolbar.ui" line="380"/>
 			<location filename="../gui/DesignerFiles/Switches/BasePhysicalToolbar.ui" line="386"/>
 			<source>Set Background Image (Shift+I)</source>
-			<translation>设置背景图像(Shift + I)</translation>
+			<translation>设置背景图像(Shift+I)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Switches/BasePhysicalToolbar.ui" line="408"/>
 			<location filename="../gui/DesignerFiles/Switches/BasePhysicalToolbar.ui" line="411"/>
 			<source>Environment (Shift+E)</source>
-			<translation>环境(Shift + E)</translation>
+			<translation>环境(Shift+E)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Switches/BasePhysicalToolbar.ui" line="430"/>
 			<location filename="../gui/DesignerFiles/Switches/BasePhysicalToolbar.ui" line="433"/>
 			<source>Go to Working Closet(Shift+H)</source>
-			<translation>去衣橱(Shift + H)工作</translation>
+			<translation>去衣橱(Shift+H)工作</translation>
 		</message>
 	</context>
 	<context>
@@ -20064,19 +20064,19 @@ p, li { white-space: pre-wrap; }
 			<location filename="../gui/DesignerFiles/Switches/BaseRealtimeToolbar.ui" line="103"/>
 			<location filename="../gui/DesignerFiles/Switches/BaseRealtimeToolbar.ui" line="106"/>
 			<source>Power Cycle Devices (Alt+S)</source>
-			<translation>动力循环装置(Alt + S)</translation>
+			<translation>动力循环装置(Alt+S)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Switches/BaseRealtimeToolbar.ui" line="131"/>
 			<location filename="../gui/DesignerFiles/Switches/BaseRealtimeToolbar.ui" line="134"/>
 			<location filename="../gui/DesignerFiles/Switches/BaseRealtimeToolbar.ui" line="137"/>
 			<source>Fast Forward Time (Alt+D)</source>
-			<translation>快进时间(Alt + D)</translation>
+			<translation>快进时间(Alt+D)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Switches/BaseRealtimeToolbar.ui" line="140"/>
 			<source>Alt+D</source>
-			<translation>Alt + D</translation>
+			<translation>Alt+D</translation>
 		</message>
 	</context>
 	<context>
@@ -21415,12 +21415,12 @@ Setting&lt;/p&gt;</translation>
 		<message>
 			<location filename="../gui/DesignerFiles/Simulation/BaseSimulationPanel.ui" line="356"/>
 			<source>Go Back to Previous Event (Alt + B).</source>
-			<translation>回到先前的事件(Alt + B)。</translation>
+			<translation>回到先前的事件(Alt+B)。</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Simulation/BaseSimulationPanel.ui" line="381"/>
 			<source>Play (Alt + P)</source>
-			<translation>玩(Alt + P)</translation>
+			<translation>玩(Alt+P)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Simulation/BaseSimulationPanel.ui" line="384"/>
@@ -21430,7 +21430,7 @@ Setting&lt;/p&gt;</translation>
 		<message>
 			<location filename="../gui/DesignerFiles/Simulation/BaseSimulationPanel.ui" line="406"/>
 			<source>If last event, capture then forward (Alt + C).</source>
-			<translation>如果去年事件,捕获然后向前(Alt + C)。</translation>
+			<translation>如果去年事件,捕获然后向前(Alt+C)。</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Simulation/BaseSimulationPanel.ui" line="501"/>
@@ -24831,8 +24831,8 @@ Do you want to restart the activity?</source>
 			<location filename="../gui/DeviceConfig/CiscoWireless/CiscoAPDialog.cpp" line="317"/>
 			<source>Device is still booting.
 Please wait until it is finished.</source>
-			<translation>　　设备仍然是引导。
-　　请稍等,直到完成为止。</translation>
+			<translation>设备启动中...
+　　请稍等。</translation>
 		</message>
 		<message>
 			<location filename="../gui/DeviceConfig/CiscoWireless/CiscoAPDialog.cpp" line="355"/>
@@ -27870,7 +27870,7 @@ and all previous settings will be erased.</source>
 		<message>
 			<location filename="../gui/Workspace/Physical/GeoView.cpp" line="4979"/>
 			<source>&amp;Uncluster</source>
-			<translation>Uncluster(*U)</translation>
+			<translation>取消群集(*U)</translation>
 		</message>
 		<message>
 			<location filename="../gui/Workspace/Physical/GeoView.cpp" line="4974"/>
@@ -31559,18 +31559,18 @@ reset activity?</source>
 			<location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="3982"/>
 			<location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="3984"/>
 			<source>&amp;Uncluster</source>
-			<translation>&amp;Uncluster</translation>
+			<translation>取消群集(*U)</translation>
 		</message>
 		<message>
 			<location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="3982"/>
 			<location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="3984"/>
 			<source>&amp;Delete Cluster</source>
-			<translation>用集群</translation>
+			<translation>删除群集(&amp;D)</translation>
 		</message>
 		<message>
 			<location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="3984"/>
 			<source>&amp;Cancel</source>
-			<translation>取消</translation>
+			<translation>取消(&amp;C)</translation>
 		</message>
 	</context>
 	<context>
@@ -34756,7 +34756,7 @@ Cable Type: %6</source>
 		<message>
 			<location filename="../gui/switches/PhysicalToolbar.cpp" line="414"/>
 			<source>(Shift+G)</source>
-			<translation>(Shift + G)</translation>
+			<translation>(Shift+G)</translation>
 		</message>
 		<message>
 			<location filename="../gui/switches/PhysicalToolbar.cpp" line="622"/>
@@ -38890,27 +38890,27 @@ Reset the network?</source>
 		<message>
 			<location filename="../gui/switches/SimulationToolbar.cpp" line="126"/>
 			<source>Power Cycle Devices (Alt+S)</source>
-			<translation>动力循环装置(Alt + S)</translation>
+			<translation>动力循环装置(Alt+S)</translation>
 		</message>
 		<message>
 			<location filename="../gui/switches/SimulationToolbar.cpp" line="127"/>
 			<source>Go Back to Previous Event (Alt+B)</source>
-			<translation>回到先前的事件(Alt + B)</translation>
+			<translation>回到先前的事件(Alt+B)</translation>
 		</message>
 		<message>
 			<location filename="../gui/switches/SimulationToolbar.cpp" line="128"/>
 			<source>Play (Hands Free) (Alt+P)</source>
-			<translation>玩(免提)(Alt + P)</translation>
+			<translation>玩(免提)(Alt+P)</translation>
 		</message>
 		<message>
 			<location filename="../gui/switches/SimulationToolbar.cpp" line="129"/>
 			<source>Capture then Forward (Alt+C)</source>
-			<translation>捕获然后向前(Alt + C)</translation>
+			<translation>捕获然后向前(Alt+C)</translation>
 		</message>
 		<message>
 			<location filename="../gui/switches/SimulationToolbar.cpp" line="130"/>
 			<source>Show Event List (Alt+I)</source>
-			<translation>显示事件列表(Alt + I)</translation>
+			<translation>显示事件列表(Alt+I)</translation>
 		</message>
 		<message>
 			<location filename="../gui/switches/SimulationToolbar.cpp" line="133"/>
@@ -43544,7 +43544,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
 		<message>
 			<location filename="../gui/CTranslationDB.cpp" line="1686"/>
 			<source>The requesting port or connection does not exist on this device. TCP sends back a RST+ACK and drops the segment.</source>
-			<translation>请求端口或连接不存在在这个设备。TCP发送回一个RST + ACK,下降段。</translation>
+			<translation>请求端口或连接不存在在这个设备。TCP发送回一个RST+ACK,下降段。</translation>
 		</message>
 		<message>
 			<location filename="../gui/CTranslationDB.cpp" line="1687"/>
@@ -52508,22 +52508,22 @@ The FTP server checks whether the file exists and waits for the corresponding RN
 		<message>
 			<location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="259"/>
 			<source>Create a New Scenario (Ctrl+Shift+N)</source>
-			<translation>创建一个新的场景(Ctrl + Shift + N)</translation>
+			<translation>创建一个新的场景(Ctrl+Shift+N)</translation>
 		</message>
 		<message>
 			<location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="260"/>
 			<source>Delete Scenario and All PDUs (Ctrl+Shift+D)</source>
-			<translation>删除场景和所有pdu(Ctrl + Shift + D)</translation>
+			<translation>删除场景和所有pdu(Ctrl+Shift+D)</translation>
 		</message>
 		<message>
 			<location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="261"/>
 			<source>Toggle PDU List Window (Ctrl+Shift+O)</source>
-			<translation>切换PDU列表窗口(Ctrl + Shift + O)</translation>
+			<translation>切换PDU列表窗口(Ctrl+Shift+O)</translation>
 		</message>
 		<message>
 			<location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="262"/>
 			<source>Scenario Description (Ctrl+Shift+I)</source>
-			<translation>场景描述(Ctrl + Shift + I)</translation>
+			<translation>场景描述(Ctrl+Shift+I)</translation>
 		</message>
 		<message>
 			<location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="273"/>
@@ -54190,7 +54190,7 @@ The FTP server checks whether the file exists and waits for the corresponding RN
 		<message>
 			<location filename="../gui/DeviceConfig/Workstation/WorkstationDialup.cpp" line="113"/>
 			<source>Alt+D</source>
-			<translation>Alt + D</translation>
+			<translation>Alt+D</translation>
 		</message>
 		<message>
 			<location filename="../gui/DeviceConfig/Workstation/WorkstationDialup.cpp" line="114"/>
@@ -54263,7 +54263,7 @@ The FTP server checks whether the file exists and waits for the corresponding RN
 		<message>
 			<location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="405"/>
 			<source>&amp;Cancel</source>
-			<translation>取消</translation>
+			<translation>取消(&amp;C)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="407"/>
@@ -54273,7 +54273,7 @@ The FTP server checks whether the file exists and waits for the corresponding RN
 		<message>
 			<location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="425"/>
 			<source>D&amp;isconnect</source>
-			<translation>D&amp;isconnect</translation>
+			<translation>断开(&amp;I)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="427"/>
@@ -54283,7 +54283,7 @@ The FTP server checks whether the file exists and waits for the corresponding RN
 		<message>
 			<location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="445"/>
 			<source>&amp;Dial</source>
-			<translation>&amp;Dial</translation>
+			<translation>拨号(&amp;D)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="447"/>
@@ -56033,7 +56033,7 @@ and all previous settings will be erased.</source>
 			<location filename="../gui/DesignerFiles/MainGUIComponents/Common_PL_ToolBox.ui" line="93"/>
 			<location filename="../gui/DesignerFiles/MainGUIComponents/Common_PL_ToolBox.ui" line="96"/>
 			<source>Resize Shape (Alt+R)</source>
-			<translation>调整形状(Alt + R)</translation>
+			<translation>调整形状(Alt+R)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/MainGUIComponents/Common_PL_ToolBox.ui" line="127"/>
@@ -56364,7 +56364,7 @@ Do you want to save your changes?</source>
 			<location filename="../gui/Common/htmleditor.cpp" line="212"/>
 			<location filename="../gui/Common/htmleditor.cpp" line="239"/>
 			<source>HTML-Files (*.htm *.html);;All Files (*)</source>
-			<translation>html文件(*。htm * . html);,所有文件(*)</translation>
+			<translation>html文件(*.htm *.html);,所有文件(*)</translation>
 		</message>
 		<message>
 			<location filename="../gui/Common/htmleditor.cpp" line="238"/>
@@ -56374,12 +56374,12 @@ Do you want to save your changes?</source>
 		<message>
 			<location filename="../gui/Common/htmleditor.cpp" line="251"/>
 			<source>Common Graphics (*.png *.jpg *.jpeg *.gif);;</source>
-			<translation>常见的图形(*。png * . jpg * jpeg * gif);;</translation>
+			<translation>常见的图形(*.png *.jpg *.jpeg *.gif);;</translation>
 		</message>
 		<message>
 			<location filename="../gui/Common/htmleditor.cpp" line="252"/>
 			<source>Portable Network Graphics (PNG) (*.png);;</source>
-			<translation>便携式网络图形(PNG)(* . PNG);;</translation>
+			<translation>便携式网络图形(PNG)(*.PNG);;</translation>
 		</message>
 		<message>
 			<location filename="../gui/Common/htmleditor.cpp" line="253"/>
@@ -56389,7 +56389,7 @@ Do you want to save your changes?</source>
 		<message>
 			<location filename="../gui/Common/htmleditor.cpp" line="254"/>
 			<source>Graphics Interchange Format (*.gif);;</source>
-			<translation>图形交换格式(* gif);;</translation>
+			<translation>图形交换格式(*.gif);;</translation>
 		</message>
 		<message>
 			<location filename="../gui/Common/htmleditor.cpp" line="255"/>
@@ -56439,7 +56439,7 @@ Do you want to save your changes?</source>
 		<message>
 			<location filename="../gui/Common/htmleditor.cpp" line="580"/>
 			<source>Zoom: %1%</source>
-			<translation>Zoom: %1%</translation>
+			<translation>缩放: %1%</translation>
 		</message>
 		<message>
 			<location filename="../gui/Common/htmleditor.cpp" line="625"/>
@@ -56468,8 +56468,7 @@ Do you want to save your changes?</source>
 			<location filename="../engine/models/ioe/CUserApp.cpp" line="207"/>
 			<source>%1 Error:
 %2</source>
-			<translation>　　%1 Error:
-　　%2</translation>
+			<translation>%1 错误:%2</translation>
 		</message>
 	</context>
 	<context>
@@ -56538,27 +56537,27 @@ Do you want to save your changes?</source>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="27"/>
 			<source>about:blank</source>
-			<translation>:空白</translation>
+			<translation>about:blank</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="45"/>
 			<source>&amp;Edit</source>
-			<translation>思想</translation>
+			<translation>编辑(&amp;E)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="61"/>
 			<source>F&amp;ormat</source>
-			<translation>F&amp;ormat</translation>
+			<translation>格式化(&amp;O)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="65"/>
 			<source>St&amp;yle</source>
-			<translation>St&amp;yle</translation>
+			<translation>样式(&amp;Y)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="79"/>
 			<source>&amp;Align</source>
-			<translation>&amp;Align</translation>
+			<translation>对齐(&amp;A)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="111"/>
@@ -56573,7 +56572,7 @@ Do you want to save your changes?</source>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="169"/>
 			<source>&amp;New</source>
-			<translation>高新区</translation>
+			<translation>新建(&amp;N)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="172"/>
@@ -56583,7 +56582,7 @@ Do you want to save your changes?</source>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="181"/>
 			<source>&amp;Open...</source>
-			<translation>状态……</translation>
+			<translation>打开...(&amp;O)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="184"/>
@@ -56593,7 +56592,7 @@ Do you want to save your changes?</source>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="193"/>
 			<source>&amp;Save</source>
-			<translation>并保存</translation>
+			<translation>保存(&amp;S)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="196"/>
@@ -56603,12 +56602,12 @@ Do you want to save your changes?</source>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="201"/>
 			<source>Save &amp;As...</source>
-			<translation>保存为……</translation>
+			<translation>另存为…(&amp;A)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="210"/>
 			<source>&amp;Undo</source>
-			<translation>&amp;Undo</translation>
+			<translation>撤销(&amp;U)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="213"/>
@@ -56618,47 +56617,47 @@ Do you want to save your changes?</source>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="222"/>
 			<source>&amp;Redo</source>
-			<translation>&amp;Redo</translation>
+			<translation>重做(&amp;R)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="225"/>
 			<source>Ctrl+Y</source>
-			<translation>Ctrl + Y</translation>
+			<translation>Ctrl+Y</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="234"/>
 			<source>Cu&amp;t</source>
-			<translation>Cu&amp;t</translation>
+			<translation>剪切(&amp;T)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="237"/>
 			<source>Ctrl+X</source>
-			<translation>Ctrl + X</translation>
+			<translation>Ctrl+X</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="246"/>
 			<source>&amp;Copy</source>
-			<translation>软件是</translation>
+			<translation>复制(&amp;C)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="249"/>
 			<source>Ctrl+C</source>
-			<translation>Ctrl + C</translation>
+			<translation>Ctrl+C</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="258"/>
 			<source>&amp;Paste</source>
-			<translation>&amp;Paste</translation>
+			<translation>粘贴(&amp;P)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="261"/>
 			<source>Ctrl+V</source>
-			<translation>Ctrl + V</translation>
+			<translation>Ctrl+V</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="270"/>
 			<source>Select A&amp;ll</source>
-			<translation>选择任何</translation>
+			<translation>选择全部(&amp;L)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="273"/>
@@ -56668,82 +56667,82 @@ Do you want to save your changes?</source>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="285"/>
 			<source>&amp;Bold</source>
-			<translation>大胆的</translation>
+			<translation>加粗(&amp;B)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="288"/>
 			<source>Ctrl+B</source>
-			<translation>Ctrl + B</translation>
+			<translation>Ctrl+B</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="300"/>
 			<source>&amp;Italic</source>
-			<translation>斜体</translation>
+			<translation>斜体(&amp;L)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="303"/>
 			<source>Ctrl+I</source>
-			<translation>Ctrl +我</translation>
+			<translation>Ctrl+I</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="315"/>
 			<source>&amp;Underline</source>
-			<translation>下划线</translation>
+			<translation>下划线(&amp;U)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="318"/>
 			<source>Ctrl+U</source>
-			<translation>Ctrl + U</translation>
+			<translation>Ctrl+U</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="330"/>
 			<source>&amp;Strikethrough</source>
-			<translation>加删除线</translation>
+			<translation>删除线(&amp;S)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="339"/>
 			<source>Align &amp;Left</source>
-			<translation>左对齐</translation>
+			<translation>左对齐(&amp;L)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="348"/>
 			<source>Align &amp;Center</source>
-			<translation>Align &amp;Center</translation>
+			<translation>对齐居中(&amp;C)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="357"/>
 			<source>Align &amp;Right</source>
-			<translation>使困绕</translation>
+			<translation>右对齐(&amp;R)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="366"/>
 			<source>Align &amp;Justify</source>
-			<translation>证明一致</translation>
+			<translation>两端对齐(&amp;J)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="375"/>
 			<source>I&amp;ncrease Indent</source>
-			<translation>I&amp;ncrease缩进</translation>
+			<translation>增加缩进(&amp;N)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="384"/>
 			<source>&amp;Decrease Indent</source>
-			<translation>减少缩进</translation>
+			<translation>减少缩进(&amp;D)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="396"/>
 			<source>Bulle&amp;ted List</source>
-			<translation>Bulle&amp;ted列表</translation>
+			<translation>项目符号(&amp;T)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="408"/>
 			<source>&amp;Numbered List</source>
-			<translation>编号列表</translation>
+			<translation>编号列表(&amp;N)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="417"/>
 			<source>Insert &amp;Image...</source>
-			<translation>插入图片……</translation>
+			<translation>插入图片…(&amp;I)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="426"/>
@@ -56763,77 +56762,77 @@ Do you want to save your changes?</source>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="449"/>
 			<source>E&amp;xit</source>
-			<translation>E&amp;xit</translation>
+			<translation>退出(&amp;X)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="452"/>
 			<source>Ctrl+Q</source>
-			<translation>Ctrl +问</translation>
+			<translation>Ctrl+Q</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="457"/>
 			<source>&amp;Paragraph</source>
-			<translation>段</translation>
+			<translation>段落(&amp;P)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="462"/>
 			<source>Heading &amp;1</source>
-			<translation>标题&amp; 1</translation>
+			<translation>标题1(&amp;1)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="467"/>
 			<source>Heading &amp;2</source>
-			<translation>标题2</translation>
+			<translation>标题2(&amp;2)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="472"/>
 			<source>Heading &amp;3</source>
-			<translation>标题3</translation>
+			<translation>标题3(&amp;3)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="477"/>
 			<source>Heading &amp;4</source>
-			<translation>标题和4</translation>
+			<translation>标题4(&amp;4)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="482"/>
 			<source>Heading &amp;5</source>
-			<translation>标题和5</translation>
+			<translation>标题5(&amp;5)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="487"/>
 			<source>Heading &amp;6</source>
-			<translation>标题6</translation>
+			<translation>标题6(&amp;6)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="492"/>
 			<source>Pre&amp;formatted</source>
-			<translation>Pre&amp;formatted</translation>
+			<translation>预格式化(&amp;F)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="497"/>
 			<source>&amp;Address</source>
-			<translation>及地址</translation>
+			<translation>地址(&amp;A)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="502"/>
 			<source>&amp;Font Name...</source>
-			<translation>与字体的名字……</translation>
+			<translation>字体名称…(&amp;F)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="507"/>
 			<source>Text &amp;Color...</source>
-			<translation>文本颜色…</translation>
+			<translation>文本颜色…(&amp;C)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="512"/>
 			<source>Bac&amp;kground Color...</source>
-			<translation>主要颜色…</translation>
+			<translation>背景颜色…(&amp;K)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="517"/>
 			<source>Font Si&amp;ze...</source>
-			<translation>Font Si&amp;ze...</translation>
+			<translation>文本大小...(&amp;Z)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="526"/>
@@ -56856,7 +56855,7 @@ Do you want to save your changes?</source>
 		<message>
 			<location filename="../gui/DesignerFiles/Login/login.ui" line="23"/>
 			<source>about:blank</source>
-			<translation>:空白</translation>
+			<translation>about:blank</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Login/login.ui" line="42"/>
@@ -58819,7 +58818,7 @@ The typical sequence in creating a script module is as follows:</source>
 		<message>
 			<location filename="../gui/DesignerFiles/Workstation/WorkstationComposeMail.ui" line="180"/>
 			<source>&amp;Send</source>
-			<translation>发送</translation>
+			<translation>发送(&amp;S)</translation>
 		</message>
 		<message>
 			<location filename="../gui/DesignerFiles/Workstation/WorkstationComposeMail.ui" line="197"/>
@@ -58844,7 +58843,7 @@ The typical sequence in creating a script module is as follows:</source>
 		<message>
 			<location filename="../extensions/betafeedback/source/betafeedback/betafeedback.ui" line="21"/>
 			<source>about:blank</source>
-			<translation>:空白</translation>
+			<translation>about:blank</translation>
 		</message>
 	</context>
 	<context>

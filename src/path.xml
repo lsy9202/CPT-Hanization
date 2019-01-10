@@ -1811,7 +1811,7 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@4/@430/translation</path>
-		<text>Alt + W</text>
+		<text>Alt+W</text>
 	</item>
 	<item ok="1">
 		<path>@1/@4/@431/translation</path>
@@ -1819,7 +1819,7 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@4/@432/translation</path>
-		<text>Alt + V</text>
+		<text>Alt+V</text>
 	</item>
 	<item ok="1">
 		<path>@1/@4/@433/translation</path>
@@ -1859,7 +1859,7 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@4/@442/translation</path>
-		<text>Alt + P</text>
+		<text>Alt+P</text>
 	</item>
 	<item ok="1">
 		<path>@1/@4/@443/translation</path>
@@ -1867,7 +1867,7 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@4/@444/translation</path>
-		<text>Alt + T</text>
+		<text>Alt+T</text>
 	</item>
 	<item ok="1">
 		<path>@1/@4/@445/translation</path>
@@ -1953,7 +1953,7 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@4/@464/translation</path>
-		<text>Ctrl + W</text>
+		<text>Ctrl+W</text>
 	</item>
 	<item ok="1">
 		<path>@1/@4/@465/translation</path>
@@ -1961,7 +1961,7 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@4/@466/translation</path>
-		<text>Ctrl + Shift + S</text>
+		<text>Ctrl+Shift+S</text>
 	</item>
 	<item ok="1">
 		<path>@1/@5/@2/translation</path>
@@ -2117,7 +2117,7 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@7/@33/translation</path>
-		<text>　　本CAI分配IP地址自动设备。
+		<text>本CAI分配IP地址自动设备。
 　　
 　　
 　　
@@ -2146,7 +2146,7 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@7/@34/translation</path>
-		<text>　　本CAI分配IP地址自动设备。
+		<text>本CAI分配IP地址自动设备。
 　　
 　　
 　　
@@ -3414,7 +3414,7 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@28/@2/translation</path>
-		<text>相当于ASA命令</text>
+		<text>等效ASA命令</text>
 	</item>
 	<item ok="1">
 		<path>@1/@29/@2/translation</path>
@@ -4191,7 +4191,7 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@37/@25/translation</path>
-		<text>Alt + D</text>
+		<text>Alt+D</text>
 	</item>
 	<item ok="1">
 		<path>@1/@37/@26/translation</path>
@@ -6885,7 +6885,7 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@43/@6/translation</path>
-		<text>Ctrl + H</text>
+		<text>Ctrl+H</text>
 	</item>
 	<item ok="1">
 		<path>@1/@43/@7/translation</path>
@@ -7537,7 +7537,7 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@43/@169/translation</path>
-		<text>更新和复制</text>
+		<text>更新和复制(&amp;U)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@43/@170/translation</path>
@@ -7586,7 +7586,7 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@44/@4/translation</path>
-		<text>E&amp;xtensions</text>
+		<text>扩展(&amp;X)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@44/@5/translation</path>
@@ -7602,15 +7602,15 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@44/@8/translation</path>
-		<text>变焦</text>
+		<text>缩放(&amp;Z)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@44/@9/translation</path>
-		<text>文件</text>
+		<text>文件(&amp;F)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@44/@10/translation</path>
-		<text>逻辑模式(Shift + L)</text>
+		<text>逻辑模式(Shift+L)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@44/@11/translation</path>
@@ -7622,7 +7622,7 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@44/@13/translation</path>
-		<text>物理模式(Shift + P)</text>
+		<text>物理模式(Shift+P)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@44/@14/translation</path>
@@ -7634,7 +7634,7 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@44/@16/translation</path>
-		<text>实时模式(Shift + R)</text>
+		<text>实时模式(Shift+R)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@44/@17/translation</path>
@@ -7646,7 +7646,7 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@44/@19/translation</path>
-		<text>模拟模式(Shift + S)</text>
+		<text>模拟模式(Shift+S)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@44/@20/translation</path>
@@ -7662,15 +7662,15 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@44/@23/translation</path>
-		<text>思想</text>
+		<text>编辑(&amp;E)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@44/@24/translation</path>
-		<text>选项</text>
+		<text>选项(&amp;O)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@44/@25/translation</path>
-		<text>视图</text>
+		<text>视图(&amp;V)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@44/@26/translation</path>
@@ -7678,11 +7678,11 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@44/@27/translation</path>
-		<text>工具</text>
+		<text>工具(&amp;T)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@44/@28/translation</path>
-		<text>和帮助</text>
+		<text>帮助(&amp;H)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@44/@29/translation</path>
@@ -9002,7 +9002,7 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@54/@17/translation</path>
-		<text>&lt;b&gt;text&lt;/b&gt;</text>
+		<text>&lt;b&gt;文本&lt;/b&gt;</text>
 	</item>
 	<item ok="1">
 		<path>@1/@54/@18/translation</path>
@@ -9034,7 +9034,7 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@54/@25/translation</path>
-		<text>关闭</text>
+		<text>关闭(&amp;C)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@54/@26/translation</path>
@@ -9557,7 +9557,7 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@62/@34/translation</path>
-		<text>相当于IOS命令</text>
+		<text>等效IOS命令</text>
 	</item>
 	<item ok="1">
 		<path>@1/@62/@35/translation</path>
@@ -9585,7 +9585,7 @@ Router(config)#&lt;/font&gt;</text>
 	</item>
 	<item ok="1">
 		<path>@1/@62/@40/translation</path>
-		<text>Ctrl + F6退出CLI的焦点</text>
+		<text>Ctrl+F6退出CLI的焦点</text>
 	</item>
 	<item ok="1">
 		<path>@1/@62/@41/translation</path>
@@ -9597,7 +9597,7 @@ Router(config)#&lt;/font&gt;</text>
 	</item>
 	<item ok="1">
 		<path>@1/@62/@43/translation</path>
-		<text>Ctrl + Ins</text>
+		<text>Ctrl+Ins</text>
 	</item>
 	<item ok="1">
 		<path>@1/@62/@44/translation</path>
@@ -9613,7 +9613,7 @@ Router(config)#&lt;/font&gt;</text>
 	</item>
 	<item ok="1">
 		<path>@1/@62/@47/translation</path>
-		<text>Shift + Ins</text>
+		<text>Shift+Ins</text>
 	</item>
 	<item ok="1">
 		<path>@1/@62/@48/translation</path>
@@ -10777,7 +10777,7 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@88/@3/translation</path>
-		<text>:空白</text>
+		<text>about:blank</text>
 	</item>
 	<item ok="1">
 		<path>@1/@89/@2/translation</path>
@@ -10965,19 +10965,19 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@93/@8/translation</path>
-		<text>创建新集群(Shift + U)</text>
+		<text>创建新集群(Shift+U)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@93/@9/translation</path>
-		<text>移动对象(Shift + M)</text>
+		<text>移动对象(Shift+M)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@93/@10/translation</path>
-		<text>设置背景图像(Shift + I)</text>
+		<text>设置背景图像(Shift+I)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@93/@11/translation</path>
-		<text>环境(Shift + E)</text>
+		<text>环境(Shift+E)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@93/@12/translation</path>
@@ -11505,7 +11505,7 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@108/@8/translation</path>
-		<text>导航面板(Shift + N)</text>
+		<text>导航面板(Shift+N)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@108/@9/translation</path>
@@ -11517,19 +11517,19 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@108/@11/translation</path>
-		<text>创建新城市(Shift + C)</text>
+		<text>创建新城市(Shift+C)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@108/@12/translation</path>
-		<text>创建新建筑(Shift + B)</text>
+		<text>创建新建筑(Shift+B)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@108/@13/translation</path>
-		<text>创建新的通用容器(Shift + F)</text>
+		<text>创建新的通用容器(Shift+F)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@108/@14/translation</path>
-		<text>创建新的衣柜(Shift + W)</text>
+		<text>创建新的衣柜(Shift+W)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@108/@15/translation</path>
@@ -11537,23 +11537,23 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@108/@16/translation</path>
-		<text>移动对象(Shift + M)</text>
+		<text>移动对象(Shift+M)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@108/@17/translation</path>
-		<text>网格的偏好(Shift + G)</text>
+		<text>网格的偏好(Shift+G)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@108/@18/translation</path>
-		<text>设置背景图像(Shift + I)</text>
+		<text>设置背景图像(Shift+I)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@108/@19/translation</path>
-		<text>环境(Shift + E)</text>
+		<text>环境(Shift+E)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@108/@20/translation</path>
-		<text>去衣橱(Shift + H)工作</text>
+		<text>去衣橱(Shift+H)工作</text>
 	</item>
 	<item ok="1">
 		<path>@1/@109/@2/translation</path>
@@ -11665,15 +11665,15 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@110/@5/translation</path>
-		<text>动力循环装置(Alt + S)</text>
+		<text>动力循环装置(Alt+S)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@110/@6/translation</path>
-		<text>快进时间(Alt + D)</text>
+		<text>快进时间(Alt+D)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@110/@7/translation</path>
-		<text>Alt + D</text>
+		<text>Alt+D</text>
 	</item>
 	<item ok="1">
 		<path>@1/@111/@2/translation</path>
@@ -12370,11 +12370,11 @@ Setting&lt;/p&gt;</text>
 	</item>
 	<item ok="1">
 		<path>@1/@117/@14/translation</path>
-		<text>回到先前的事件(Alt + B)。</text>
+		<text>回到先前的事件(Alt+B)。</text>
 	</item>
 	<item ok="1">
 		<path>@1/@117/@15/translation</path>
-		<text>玩(Alt + P)</text>
+		<text>玩(Alt+P)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@117/@16/translation</path>
@@ -12382,7 +12382,7 @@ Setting&lt;/p&gt;</text>
 	</item>
 	<item ok="1">
 		<path>@1/@117/@17/translation</path>
-		<text>如果去年事件,捕获然后向前(Alt + C)。</text>
+		<text>如果去年事件,捕获然后向前(Alt+C)。</text>
 	</item>
 	<item ok="1">
 		<path>@1/@117/@18/translation</path>
@@ -14193,8 +14193,8 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@145/@2/translation</path>
-		<text>　　设备仍然是引导。
-　　请稍等,直到完成为止。</text>
+		<text>设备启动中...
+　　请稍等。</text>
 	</item>
 	<item ok="1">
 		<path>@1/@145/@3/translation</path>
@@ -16318,7 +16318,7 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@188/@19/translation</path>
-		<text>Uncluster(*U)</text>
+		<text>取消群集(*U)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@188/@20/translation</path>
@@ -19044,15 +19044,15 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@221/@35/translation</path>
-		<text>&amp;Uncluster</text>
+		<text>取消群集(*U)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@221/@36/translation</path>
-		<text>用集群</text>
+		<text>删除群集(&amp;D)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@221/@37/translation</path>
-		<text>取消</text>
+		<text>取消(&amp;C)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@222/@2/translation</path>
@@ -21180,7 +21180,7 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@280/@14/translation</path>
-		<text>(Shift + G)</text>
+		<text>(Shift+G)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@280/@15/translation</path>
@@ -23984,23 +23984,23 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@346/@2/translation</path>
-		<text>动力循环装置(Alt + S)</text>
+		<text>动力循环装置(Alt+S)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@346/@3/translation</path>
-		<text>回到先前的事件(Alt + B)</text>
+		<text>回到先前的事件(Alt+B)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@346/@4/translation</path>
-		<text>玩(免提)(Alt + P)</text>
+		<text>玩(免提)(Alt+P)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@346/@5/translation</path>
-		<text>捕获然后向前(Alt + C)</text>
+		<text>捕获然后向前(Alt+C)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@346/@6/translation</path>
-		<text>显示事件列表(Alt + I)</text>
+		<text>显示事件列表(Alt+I)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@346/@7/translation</path>
@@ -27526,7 +27526,7 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@358/@823/translation</path>
-		<text>请求端口或连接不存在在这个设备。TCP发送回一个RST + ACK,下降段。</text>
+		<text>请求端口或连接不存在在这个设备。TCP发送回一个RST+ACK,下降段。</text>
 	</item>
 	<item ok="1">
 		<path>@1/@358/@824/translation</path>
@@ -34524,19 +34524,19 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@362/@4/translation</path>
-		<text>创建一个新的场景(Ctrl + Shift + N)</text>
+		<text>创建一个新的场景(Ctrl+Shift+N)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@362/@5/translation</path>
-		<text>删除场景和所有pdu(Ctrl + Shift + D)</text>
+		<text>删除场景和所有pdu(Ctrl+Shift+D)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@362/@6/translation</path>
-		<text>切换PDU列表窗口(Ctrl + Shift + O)</text>
+		<text>切换PDU列表窗口(Ctrl+Shift+O)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@362/@7/translation</path>
-		<text>场景描述(Ctrl + Shift + I)</text>
+		<text>场景描述(Ctrl+Shift+I)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@362/@8/translation</path>
@@ -35738,7 +35738,7 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@383/@4/translation</path>
-		<text>Alt + D</text>
+		<text>Alt+D</text>
 	</item>
 	<item ok="1">
 		<path>@1/@383/@5/translation</path>
@@ -35790,7 +35790,7 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@384/@8/translation</path>
-		<text>取消</text>
+		<text>取消(&amp;C)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@384/@9/translation</path>
@@ -35798,7 +35798,7 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@384/@10/translation</path>
-		<text>D&amp;isconnect</text>
+		<text>断开(&amp;I)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@384/@11/translation</path>
@@ -35806,7 +35806,7 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@384/@12/translation</path>
-		<text>&amp;Dial</text>
+		<text>拨号(&amp;D)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@384/@13/translation</path>
@@ -37014,7 +37014,7 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@412/@4/translation</path>
-		<text>调整形状(Alt + R)</text>
+		<text>调整形状(Alt+R)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@412/@5/translation</path>
@@ -37232,7 +37232,7 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@419/@5/translation</path>
-		<text>html文件(*。htm * . html);,所有文件(*)</text>
+		<text>html文件(*.htm *.html);,所有文件(*)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@419/@6/translation</path>
@@ -37240,11 +37240,11 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@419/@7/translation</path>
-		<text>常见的图形(*。png * . jpg * jpeg * gif);;</text>
+		<text>常见的图形(*.png *.jpg *.jpeg *.gif);;</text>
 	</item>
 	<item ok="1">
 		<path>@1/@419/@8/translation</path>
-		<text>便携式网络图形(PNG)(* . PNG);;</text>
+		<text>便携式网络图形(PNG)(*.PNG);;</text>
 	</item>
 	<item ok="1">
 		<path>@1/@419/@9/translation</path>
@@ -37252,7 +37252,7 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@419/@10/translation</path>
-		<text>图形交换格式(* gif);;</text>
+		<text>图形交换格式(*.gif);;</text>
 	</item>
 	<item ok="1">
 		<path>@1/@419/@11/translation</path>
@@ -37292,7 +37292,7 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@419/@20/translation</path>
-		<text>Zoom: %1%</text>
+		<text>缩放: %1%</text>
 	</item>
 	<item ok="1">
 		<path>@1/@419/@21/translation</path>
@@ -37308,8 +37308,7 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@421/@2/translation</path>
-		<text>　　%1 Error:
-　　%2</text>
+		<text>%1 错误:%2</text>
 	</item>
 	<item ok="1">
 		<path>@1/@422/@2/translation</path>
@@ -37353,23 +37352,23 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@424/@3/translation</path>
-		<text>:空白</text>
+		<text>about:blank</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@4/translation</path>
-		<text>思想</text>
+		<text>编辑(&amp;E)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@5/translation</path>
-		<text>F&amp;ormat</text>
+		<text>格式化(&amp;O)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@6/translation</path>
-		<text>St&amp;yle</text>
+		<text>样式(&amp;Y)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@7/translation</path>
-		<text>&amp;Align</text>
+		<text>对齐(&amp;A)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@8/translation</path>
@@ -37381,7 +37380,7 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@424/@10/translation</path>
-		<text>高新区</text>
+		<text>新建(&amp;N)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@11/translation</path>
@@ -37389,7 +37388,7 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@424/@12/translation</path>
-		<text>状态……</text>
+		<text>打开...(&amp;O)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@13/translation</path>
@@ -37397,7 +37396,7 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@424/@14/translation</path>
-		<text>并保存</text>
+		<text>保存(&amp;S)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@15/translation</path>
@@ -37405,11 +37404,11 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@424/@16/translation</path>
-		<text>保存为……</text>
+		<text>另存为…(&amp;A)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@17/translation</path>
-		<text>&amp;Undo</text>
+		<text>撤销(&amp;U)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@18/translation</path>
@@ -37417,39 +37416,39 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@424/@19/translation</path>
-		<text>&amp;Redo</text>
+		<text>重做(&amp;R)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@20/translation</path>
-		<text>Ctrl + Y</text>
+		<text>Ctrl+Y</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@21/translation</path>
-		<text>Cu&amp;t</text>
+		<text>剪切(&amp;T)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@22/translation</path>
-		<text>Ctrl + X</text>
+		<text>Ctrl+X</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@23/translation</path>
-		<text>软件是</text>
+		<text>复制(&amp;C)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@24/translation</path>
-		<text>Ctrl + C</text>
+		<text>Ctrl+C</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@25/translation</path>
-		<text>&amp;Paste</text>
+		<text>粘贴(&amp;P)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@26/translation</path>
-		<text>Ctrl + V</text>
+		<text>Ctrl+V</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@27/translation</path>
-		<text>选择任何</text>
+		<text>选择全部(&amp;L)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@28/translation</path>
@@ -37457,67 +37456,67 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@424/@29/translation</path>
-		<text>大胆的</text>
+		<text>加粗(&amp;B)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@30/translation</path>
-		<text>Ctrl + B</text>
+		<text>Ctrl+B</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@31/translation</path>
-		<text>斜体</text>
+		<text>斜体(&amp;L)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@32/translation</path>
-		<text>Ctrl +我</text>
+		<text>Ctrl+I</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@33/translation</path>
-		<text>下划线</text>
+		<text>下划线(&amp;U)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@34/translation</path>
-		<text>Ctrl + U</text>
+		<text>Ctrl+U</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@35/translation</path>
-		<text>加删除线</text>
+		<text>删除线(&amp;S)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@36/translation</path>
-		<text>左对齐</text>
+		<text>左对齐(&amp;L)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@37/translation</path>
-		<text>Align &amp;Center</text>
+		<text>对齐居中(&amp;C)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@38/translation</path>
-		<text>使困绕</text>
+		<text>右对齐(&amp;R)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@39/translation</path>
-		<text>证明一致</text>
+		<text>两端对齐(&amp;J)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@40/translation</path>
-		<text>I&amp;ncrease缩进</text>
+		<text>增加缩进(&amp;N)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@41/translation</path>
-		<text>减少缩进</text>
+		<text>减少缩进(&amp;D)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@42/translation</path>
-		<text>Bulle&amp;ted列表</text>
+		<text>项目符号(&amp;T)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@43/translation</path>
-		<text>编号列表</text>
+		<text>编号列表(&amp;N)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@44/translation</path>
-		<text>插入图片……</text>
+		<text>插入图片…(&amp;I)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@45/translation</path>
@@ -37533,63 +37532,63 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@424/@48/translation</path>
-		<text>E&amp;xit</text>
+		<text>退出(&amp;X)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@49/translation</path>
-		<text>Ctrl +问</text>
+		<text>Ctrl+Q</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@50/translation</path>
-		<text>段</text>
+		<text>段落(&amp;P)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@51/translation</path>
-		<text>标题&amp; 1</text>
+		<text>标题1(&amp;1)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@52/translation</path>
-		<text>标题2</text>
+		<text>标题2(&amp;2)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@53/translation</path>
-		<text>标题3</text>
+		<text>标题3(&amp;3)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@54/translation</path>
-		<text>标题和4</text>
+		<text>标题4(&amp;4)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@55/translation</path>
-		<text>标题和5</text>
+		<text>标题5(&amp;5)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@56/translation</path>
-		<text>标题6</text>
+		<text>标题6(&amp;6)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@57/translation</path>
-		<text>Pre&amp;formatted</text>
+		<text>预格式化(&amp;F)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@58/translation</path>
-		<text>及地址</text>
+		<text>地址(&amp;A)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@59/translation</path>
-		<text>与字体的名字……</text>
+		<text>字体名称…(&amp;F)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@60/translation</path>
-		<text>文本颜色…</text>
+		<text>文本颜色…(&amp;C)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@61/translation</path>
-		<text>主要颜色…</text>
+		<text>背景颜色…(&amp;K)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@62/translation</path>
-		<text>Font Si&amp;ze...</text>
+		<text>文本大小...(&amp;Z)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@424/@63/translation</path>
@@ -37605,7 +37604,7 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@425/@3/translation</path>
-		<text>:空白</text>
+		<text>about:blank</text>
 	</item>
 	<item ok="1">
 		<path>@1/@425/@4/translation</path>
@@ -38947,7 +38946,7 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@455/@6/translation</path>
-		<text>发送</text>
+		<text>发送(&amp;S)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@455/@7/translation</path>
@@ -38963,7 +38962,7 @@ p, li { white-space: pre-wrap; }
 	</item>
 	<item ok="1">
 		<path>@1/@456/@3/translation</path>
-		<text>:空白</text>
+		<text>about:blank</text>
 	</item>
 	<item ok="1">
 		<path>@1/@457/@2/translation</path>
