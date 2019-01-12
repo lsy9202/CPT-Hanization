@@ -68,8 +68,8 @@ Please refer to the Activity Wizard help files for more detailed information.</o
 　　
 　　活动的向导是一个评估工具,允许您创建其他用户的详细网络场景。典型的序列在一个活动如下：
 　　
-　　1)创建答案网络和组评估项目。
-　　2)创建初始网络,将用户的起点。一个空白的初始网络也可以使用。准确的评分,设备显示名称在初始网络必须匹配的答案网络。
+　　1)创建应答网络和组评估项目。
+　　2)创建初始网络,将用户的起点。一个空白的初始网络也可以使用。准确的评分,设备显示名称在初始网络必须匹配的应答网络。
 　　3)将限制用户使用某些功能在活动的能力。
 　　4)写一个明确的指令集的活动。
 　　5)密码保护活动以防止未经授权的更改活动参数。
@@ -260,12 +260,12 @@ Please refer to the Activity Wizard help files for more detailed information.</o
 	<item ok="1">
 		<path>@1/@4/@40/translation</path>
 		<original>Import File to Answer Network</original>
-		<text>导入文件回答网络</text>
+		<text>导入文件应答网络</text>
 	</item>
 	<item ok="1">
 		<path>@1/@4/@41/translation</path>
 		<original>Export Answer Network to File</original>
-		<text>回答网络导出到文件中</text>
+		<text>应答网络导出到文件中</text>
 	</item>
 	<item ok="1">
 		<path>@1/@4/@42/translation</path>
@@ -280,7 +280,7 @@ Please refer to the Activity Wizard help files for more detailed information.</o
 	<item ok="1">
 		<path>@1/@4/@44/translation</path>
 		<original>Keyword:</original>
-		<text>key字：</text>
+		<text>关键字：</text>
 	</item>
 	<item ok="1">
 		<path>@1/@4/@45/translation</path>
@@ -315,7 +315,7 @@ Please refer to the Activity Wizard help files for more detailed information.</o
 	<item ok="1">
 		<path>@1/@4/@51/translation</path>
 		<original>The connectivity tests are based on the first scenario of the answer network&apos;s User Created PDUs list. On the first column, select the test condition.</original>
-		<text>连通性测试是基于第一个场景的回答网络的用户创建了pdu列表。在第一列,选择测试条件。</text>
+		<text>连通性测试是基于第一个场景的应答网络的用户创建了pdu列表。在第一列,选择测试条件。</text>
 	</item>
 	<item ok="1">
 		<path>@1/@4/@52/translation</path>
@@ -330,7 +330,7 @@ Please refer to the Activity Wizard help files for more detailed information.</o
 	<item ok="1">
 		<path>@1/@4/@54/translation</path>
 		<original>Source</original>
-		<text>源</text>
+		<text>来源</text>
 	</item>
 	<item ok="1">
 		<path>@1/@4/@55/translation</path>
@@ -430,7 +430,7 @@ Please refer to the Activity Wizard help files for more detailed information.</o
 	<item ok="1">
 		<path>@1/@4/@74/translation</path>
 		<original>Initial Network</original>
-		<text>最初的网络</text>
+		<text>初始网络</text>
 	</item>
 	<item ok="1">
 		<path>@1/@4/@75/translation</path>
@@ -450,7 +450,7 @@ Please refer to the Activity Wizard help files for more detailed information.</o
 	<item ok="1">
 		<path>@1/@4/@78/translation</path>
 		<original>Welcome to the Activity Wizard!The Activity Wizard is an assessment tool that allows you to create detailed networking scenarios for other users. The typical sequence in making an activity is as follows:1) Create the answer network and set the assessment items.2) Create the initial network, which will be the user&apos;s starting point. A blank initial network may also be used. For accurate scoring, device display names in the initial network must match the ones in the answer network.3) Put constraints on the user&apos;s ability to use certain features during the activity.4) Write a clear set of instructions for the activity.5) Password-protect the activity to prevent unauthorized changes to activity parameters.6) Save the activity.Please refer to the Activity Wizard help files for more detailed information.</original>
-		<text>欢迎来到活动向导!活动的向导是一个评估工具,允许您创建其他用户的详细网络场景。典型的序列在一个活动如下：1)创建网络和答案设置评估items.2)创建初始网络,将用户的起点。一个空白的初始网络也可以使用。准确的评分,设备显示名称在初始网络必须匹配的答案网)将限制用户使用某些功能的能力在activity.4)写一个明确的指令集activity.5)密码保护的活动以防止未经授权的更改活动parameters.6)保存活动。请参考活动向导帮助文件的更详细的信息。</text>
+		<text>欢迎来到活动向导!活动的向导是一个评估工具,允许您创建其他用户的详细网络场景。典型的序列在一个活动如下：1)创建网络和应答设置评估items.2)创建初始网络,将用户的起点。一个空白的初始网络也可以使用。准确的评分,设备显示名称在初始网络必须匹配的应答网)将限制用户使用某些功能的能力在activity.4)写一个明确的指令集activity.5)密码保护的活动以防止未经授权的更改活动parameters.6)保存活动。请参考活动向导帮助文件的更详细的信息。</text>
 	</item>
 	<item ok="1">
 		<path>@1/@4/@79/translation</path>
@@ -1642,17 +1642,17 @@ Comments:</original>
 	<item ok="1">
 		<path>@1/@4/@316/translation</path>
 		<original>IP Address Variables</original>
-		<text>IP地址的变量</text>
+		<text>IP地址变量</text>
 	</item>
 	<item ok="1">
 		<path>@1/@4/@317/translation</path>
 		<original>Import IP Address Variables</original>
-		<text>导入IP地址的变量</text>
+		<text>导入IP地址变量</text>
 	</item>
 	<item ok="1">
 		<path>@1/@4/@318/translation</path>
 		<original>Export IP Address Variables</original>
-		<text>导出IP地址的变量</text>
+		<text>导出IP地址变量</text>
 	</item>
 	<item ok="1">
 		<path>@1/@4/@319/translation</path>
@@ -1727,7 +1727,7 @@ Comments:</original>
 	<item ok="1">
 		<path>@1/@4/@333/translation</path>
 		<original>Different timing settings can be applied to this activity. The &quot;Time Elapsed&quot; setting will keep a running time of the activity duration. The &quot;Countdown&quot; setting will pop-up the Check Answers Page once the timer expires.</original>
-		<text>不同的时间设置可以应用到这个活动。“时间”设置将运行时间活动的持续时间。“倒计时”设置将弹出页面一旦定时器到期检查答案。</text>
+		<text>不同的时间设置可以应用到这个活动。“时间”设置将运行时间活动的持续时间。“倒计时”设置将弹出页面一旦定时器到期检查应答。</text>
 	</item>
 	<item ok="1">
 		<path>@1/@4/@334/translation</path>
@@ -1835,7 +1835,7 @@ Entire Range – A variable used in the Activity Wizard answer network to accept 
 　　池中随机 -- 任何值。
 　　元素的位置 -- 一个整数值,每次从池中选择相同的位置。
 　　种子,种子的种子变量定义的位置选项卡。一个方法允许相同的位置中使用多个变量的选择。
-　　整个范围,活动中使用一个变量向导回答网络接受任何输入正确只要是包含在相关的池。</text>
+　　整个范围,活动中使用一个变量向导应答网络接受任何输入正确只要是包含在相关的池。</text>
 	</item>
 	<item ok="1">
 		<path>@1/@4/@350/translation</path>
@@ -4473,7 +4473,7 @@ p, li { white-space： pre-wrap; }
 	<item ok="1">
 		<path>@1/@32/@2/translation</path>
 		<original>Answer Network</original>
-		<text>回答网络</text>
+		<text>应答网络</text>
 	</item>
 	<item ok="1">
 		<path>@1/@32/@3/translation</path>
@@ -4569,7 +4569,7 @@ p, li { white-space： pre-wrap; }
 		<path>@1/@32/@21/translation</path>
 		<original>Replacing the initial network with the answer network cannot be undone.
 Replace the Initial Network?</original>
-		<text>　　取代了最初的网络与答案网络无法回复。
+		<text>　　取代了最初的网络与应答网络无法回复。
 　　代替最初的网络吗?</text>
 	</item>
 	<item ok="1">
@@ -7035,12 +7035,12 @@ p, li { white-space： pre-wrap; }
 	<item ok="1">
 		<path>@1/@37/@361/translation</path>
 		<original>DHCP Snooping Trust</original>
-		<text>DHCP窥探信任</text>
+		<text>DHCP监听信任</text>
 	</item>
 	<item ok="1">
 		<path>@1/@37/@362/translation</path>
 		<original>DHCP Snooping Limit Rate</original>
-		<text>DHCP窥探极限速度</text>
+		<text>DHCP监听极限速度</text>
 	</item>
 	<item ok="1">
 		<path>@1/@37/@363/translation</path>
@@ -7435,7 +7435,7 @@ p, li { white-space： pre-wrap; }
 	<item ok="1">
 		<path>@1/@37/@441/translation</path>
 		<original>In Logical Shape</original>
-		<text>在逻辑形状</text>
+		<text>在逻辑形态</text>
 	</item>
 	<item ok="1">
 		<path>@1/@37/@442/translation</path>
@@ -7570,12 +7570,12 @@ p, li { white-space： pre-wrap; }
 	<item ok="1">
 		<path>@1/@37/@468/translation</path>
 		<original>TCP MAX Incomplete Host Blocktime</original>
-		<text>TCP MAX不完整的主机Blocktime</text>
+		<text>TCP MAX不完整的主机阻塞时间</text>
 	</item>
 	<item ok="1">
 		<path>@1/@37/@469/translation</path>
 		<original>TCP MAX Incomplete Host</original>
-		<text>TCP马克斯不完整的主机</text>
+		<text>TCP MAX不完整的主机</text>
 	</item>
 	<item ok="1">
 		<path>@1/@37/@470/translation</path>
@@ -7600,12 +7600,12 @@ p, li { white-space： pre-wrap; }
 	<item ok="1">
 		<path>@1/@37/@474/translation</path>
 		<original>MAX Incomplete Low</original>
-		<text>马克斯不完整的低</text>
+		<text>MAX Incomplete Low</text>
 	</item>
 	<item ok="1">
 		<path>@1/@37/@475/translation</path>
 		<original>MAX Incomplete High</original>
-		<text>马克斯不完整的高</text>
+		<text>MAX Incomplete High</text>
 	</item>
 	<item ok="1">
 		<path>@1/@37/@476/translation</path>
@@ -7645,7 +7645,7 @@ p, li { white-space： pre-wrap; }
 	<item ok="1">
 		<path>@1/@37/@483/translation</path>
 		<original>Enable Secret</original>
-		<text>使秘密</text>
+		<text>启动私密</text>
 	</item>
 	<item ok="1">
 		<path>@1/@37/@484/translation</path>
@@ -7665,22 +7665,22 @@ p, li { white-space： pre-wrap; }
 	<item ok="1">
 		<path>@1/@37/@487/translation</path>
 		<original>Client Configuration Groups</original>
-		<text>Client Configuration Groups</text>
+		<text>客户配置组</text>
 	</item>
 	<item ok="1">
 		<path>@1/@37/@488/translation</path>
 		<original>Dot11 Configuration</original>
-		<text>Dot11 Configuration</text>
+		<text>802.11配置</text>
 	</item>
 	<item ok="1">
 		<path>@1/@37/@489/translation</path>
 		<original>SSID Configurations</original>
-		<text>名称的配置</text>
+		<text>SSID配置</text>
 	</item>
 	<item ok="1">
 		<path>@1/@37/@490/translation</path>
 		<original>Dot11Radio Configurations</original>
-		<text>Dot11Radio Configurations</text>
+		<text>802.11无线配置</text>
 	</item>
 	<item ok="1">
 		<path>@1/@37/@491/translation</path>
@@ -7710,7 +7710,7 @@ p, li { white-space： pre-wrap; }
 	<item ok="1">
 		<path>@1/@37/@496/translation</path>
 		<original>IP Domain-Lookup</original>
-		<text>IP Domain-Lookup</text>
+		<text>IP域名查询</text>
 	</item>
 	<item ok="1">
 		<path>@1/@37/@497/translation</path>
@@ -7730,7 +7730,7 @@ p, li { white-space： pre-wrap; }
 	<item ok="1">
 		<path>@1/@37/@500/translation</path>
 		<original>DHCP Snooping Binding DB Agent</original>
-		<text>DHCP窥探绑定DB代理</text>
+		<text>DHCP监听绑定DB代理</text>
 	</item>
 	<item ok="1">
 		<path>@1/@37/@501/translation</path>
@@ -7740,22 +7740,22 @@ p, li { white-space： pre-wrap; }
 	<item ok="1">
 		<path>@1/@37/@502/translation</path>
 		<original>Flash</original>
-		<text>闪光</text>
+		<text>Flash</text>
 	</item>
 	<item ok="1">
 		<path>@1/@37/@503/translation</path>
 		<original>DHCP Snooping</original>
-		<text>DHCP窥探</text>
+		<text>DHCP监听</text>
 	</item>
 	<item ok="1">
 		<path>@1/@37/@504/translation</path>
 		<original>Option 82 Trusted</original>
-		<text>选择82年信任</text>
+		<text>Option 82 Trusted</text>
 	</item>
 	<item ok="1">
 		<path>@1/@37/@505/translation</path>
 		<original>Option 82 Inserted</original>
-		<text>选择82插入</text>
+		<text>Option 82 Inserted</text>
 	</item>
 	<item ok="1">
 		<path>@1/@37/@506/translation</path>
@@ -7800,7 +7800,7 @@ p, li { white-space： pre-wrap; }
 	<item ok="1">
 		<path>@1/@37/@514/translation</path>
 		<original>Start IP address</original>
-		<text>启动IP地址</text>
+		<text>开始IP地址</text>
 	</item>
 	<item ok="1">
 		<path>@1/@37/@515/translation</path>
@@ -7810,7 +7810,7 @@ p, li { white-space： pre-wrap; }
 	<item ok="1">
 		<path>@1/@37/@516/translation</path>
 		<original>Name</original>
-		<text>名字</text>
+		<text>名称</text>
 	</item>
 	<item ok="1">
 		<path>@1/@37/@517/translation</path>
@@ -7820,7 +7820,7 @@ p, li { white-space： pre-wrap; }
 	<item ok="1">
 		<path>@1/@37/@518/translation</path>
 		<original>End IP address</original>
-		<text>端IP地址</text>
+		<text>结束IP地址</text>
 	</item>
 	<item ok="1">
 		<path>@1/@37/@519/translation</path>
@@ -7840,12 +7840,12 @@ p, li { white-space： pre-wrap; }
 	<item ok="1">
 		<path>@1/@37/@522/translation</path>
 		<original>DHCPD Auto_config</original>
-		<text>了DHCPD Auto_config</text>
+		<text>DHCPD自动配置</text>
 	</item>
 	<item ok="1">
 		<path>@1/@37/@523/translation</path>
 		<original>DHCP Reservation</original>
-		<text>DHCP的预订</text>
+		<text>DHCP预订</text>
 	</item>
 	<item ok="1">
 		<path>@1/@37/@524/translation</path>
@@ -7870,7 +7870,7 @@ p, li { white-space： pre-wrap; }
 	<item ok="1">
 		<path>@1/@37/@528/translation</path>
 		<original>Relay Information Trust All</original>
-		<text>传递信息的信任</text>
+		<text>全部信任传递信息</text>
 	</item>
 	<item ok="1">
 		<path>@1/@37/@529/translation</path>
@@ -7880,7 +7880,7 @@ p, li { white-space： pre-wrap; }
 	<item ok="1">
 		<path>@1/@37/@530/translation</path>
 		<original>Device Model</original>
-		<text>设备模型</text>
+		<text>设备型号</text>
 	</item>
 	<item ok="1">
 		<path>@1/@37/@531/translation</path>
@@ -7895,7 +7895,7 @@ p, li { white-space： pre-wrap; }
 	<item ok="1">
 		<path>@1/@37/@533/translation</path>
 		<original>Custom Device Model</original>
-		<text>定制设备模型</text>
+		<text>定制设备型号</text>
 	</item>
 	<item ok="1">
 		<path>@1/@37/@534/translation</path>
@@ -7945,7 +7945,7 @@ p, li { white-space： pre-wrap; }
 	<item ok="1">
 		<path>@1/@37/@543/translation</path>
 		<original>Class Maps</original>
-		<text>类图</text>
+		<text>类映射</text>
 	</item>
 	<item ok="1">
 		<path>@1/@37/@544/translation</path>
@@ -7960,7 +7960,7 @@ p, li { white-space： pre-wrap; }
 	<item ok="1">
 		<path>@1/@37/@546/translation</path>
 		<original>Call Manager Express</original>
-		<text>电话经理表达</text>
+		<text>Call Manager Express</text>
 	</item>
 	<item ok="1">
 		<path>@1/@37/@547/translation</path>
@@ -8155,12 +8155,12 @@ p, li { white-space： pre-wrap; }
 	<item ok="1">
 		<path>@1/@37/@585/translation</path>
 		<original>RS 232 Terminal Config</original>
-		<text>RS 232终端配置</text>
+		<text>RS232终端配置</text>
 	</item>
 	<item ok="1">
 		<path>@1/@37/@586/translation</path>
 		<original>RS 232</original>
-		<text>RS 232</text>
+		<text>RS232</text>
 	</item>
 	<item ok="1">
 		<path>@1/@37/@587/translation</path>
@@ -8240,7 +8240,7 @@ p, li { white-space： pre-wrap; }
 	<item ok="1">
 		<path>@1/@37/@602/translation</path>
 		<original>Account cisco</original>
-		<text>描述Cisco</text>
+		<text>Cisco账户</text>
 	</item>
 	<item ok="1">
 		<path>@1/@37/@603/translation</path>
@@ -8260,7 +8260,7 @@ p, li { white-space： pre-wrap; }
 	<item ok="1">
 		<path>@1/@37/@606/translation</path>
 		<original>FTP Enable</original>
-		<text>FTP支持</text>
+		<text>FTP启用</text>
 	</item>
 	<item ok="1">
 		<path>@1/@37/@607/translation</path>
@@ -8285,12 +8285,12 @@ p, li { white-space： pre-wrap; }
 	<item ok="1">
 		<path>@1/@37/@611/translation</path>
 		<original>SMTP Service Enabled</original>
-		<text>SMTP服务使</text>
+		<text>SMTP服务启用</text>
 	</item>
 	<item ok="1">
 		<path>@1/@37/@612/translation</path>
 		<original>POP3 Service Enabled</original>
-		<text>POP3服务使</text>
+		<text>POP3服务启用</text>
 	</item>
 	<item ok="1">
 		<path>@1/@37/@613/translation</path>
@@ -8305,7 +8305,7 @@ p, li { white-space： pre-wrap; }
 	<item ok="1">
 		<path>@1/@37/@615/translation</path>
 		<original>Outgoing Mail Server</original>
-		<text>即将离任的邮件服务器</text>
+		<text>发出邮件服务器</text>
 	</item>
 	<item ok="1">
 		<path>@1/@37/@616/translation</path>
@@ -8440,7 +8440,7 @@ p, li { white-space： pre-wrap; }
 	<item ok="1">
 		<path>@1/@38/@2/translation</path>
 		<original>Out of Range [1-100]</original>
-		<text>的范围(1 - 100)</text>
+		<text>超出范围(1 - 100)</text>
 	</item>
 	<item ok="1">
 		<path>@1/@38/@3/translation</path>
@@ -11317,7 +11317,7 @@ p, li { white-space： pre-wrap; }
 	<item ok="1">
 		<path>@1/@54/@2/translation</path>
 		<original>Check Answers</original>
-		<text>检查答案</text>
+		<text>检查应答</text>
 	</item>
 	<item ok="1">
 		<path>@1/@54/@3/translation</path>
@@ -17869,7 +17869,7 @@ Send/Receive</original>
 Closing the Check Answer window will restart the activity.
 Do you want to restart the activity?</original>
 		<text>　　这个活动期限。
-　　关闭检查答案窗口将重新启动活动。
+　　关闭检查应答窗口将重新启动活动。
 　　你要重新启动活动吗?</text>
 	</item>
 	<item ok="1">
@@ -26177,7 +26177,7 @@ What is the device decision in this layer?</original>
 		<path>@1/@271/@84/translation</path>
 		<original>Sorry. That is not the right answer. Please try again.
 What is the device decision in this layer?</original>
-		<text>　　对不起。这不是正确的答案。请再试一次。
+		<text>　　对不起。这不是正确的应答。请再试一次。
 　　这一层的设备决定是什么?</text>
 	</item>
 	<item ok="1">
@@ -30749,7 +30749,7 @@ Please wait until it is finished.</original>
 		<original>Packet Tracer is waiting for external application to reply with save data.
 Click Cancel to stop waiting and save with current replied data.</original>
 		<text>　　Packet Tracer正在等待回复外部应用程序保存数据。
-　　单击取消停止等待并保存当前数据回答。</text>
+　　单击取消停止等待并保存当前数据应答。</text>
 	</item>
 	<item ok="1">
 		<path>@1/@358/@36/translation</path>
@@ -32549,7 +32549,7 @@ Click Cancel to stop waiting and save with current replied data.</original>
 	<item ok="1">
 		<path>@1/@358/@395/translation</path>
 		<original>The ARP process has not sent a request for the replied IP address recently. The ARP process drops the frame.</original>
-		<text>ARP过程并没有差遣回答IP地址最近的请求。ARP过程框架。</text>
+		<text>ARP过程并没有差遣应答IP地址最近的请求。ARP过程框架。</text>
 	</item>
 	<item ok="1">
 		<path>@1/@358/@396/translation</path>
@@ -33154,7 +33154,7 @@ Click Cancel to stop waiting and save with current replied data.</original>
 	<item ok="1">
 		<path>@1/@358/@516/translation</path>
 		<original>The ICMP process sends an Echo Reply.</original>
-		<text>ICMP进程发送一个回声回答。</text>
+		<text>ICMP进程发送一个回声应答。</text>
 	</item>
 	<item ok="1">
 		<path>@1/@358/@517/translation</path>
@@ -33379,7 +33379,7 @@ Click Cancel to stop waiting and save with current replied data.</original>
 	<item ok="1">
 		<path>@1/@358/@561/translation</path>
 		<original>Phone number not answering.</original>
-		<text>电话号码没有回答。</text>
+		<text>电话号码没有应答。</text>
 	</item>
 	<item ok="1">
 		<path>@1/@358/@562/translation</path>
@@ -33969,7 +33969,7 @@ Click Cancel to stop waiting and save with current replied data.</original>
 	<item ok="1">
 		<path>@1/@358/@679/translation</path>
 		<original>DHCP Snooping: The switch receives a [[MESSAGE_TYPE]] message on an untrusted port. The device is not configured with a functional and trusted port.  The device drops the packet.</original>
-		<text>DHCP窥探：开关接收到[[MESSAGE_TYPE]]消息在一个不可信的端口。设备不是配置功能和信任端口。设备滴包。</text>
+		<text>DHCP监听：开关接收到[[MESSAGE_TYPE]]消息在一个不可信的端口。设备不是配置功能和信任端口。设备滴包。</text>
 	</item>
 	<item ok="1">
 		<path>@1/@358/@680/translation</path>
@@ -34194,7 +34194,7 @@ Click Cancel to stop waiting and save with current replied data.</original>
 	<item ok="1">
 		<path>@1/@358/@724/translation</path>
 		<original>The device sends back an Echo Reply.</original>
-		<text>设备发回一个回声回答。</text>
+		<text>设备发回一个回声应答。</text>
 	</item>
 	<item ok="1">
 		<path>@1/@358/@725/translation</path>
@@ -35559,7 +35559,7 @@ Click Cancel to stop waiting and save with current replied data.</original>
 	<item ok="1">
 		<path>@1/@358/@997/translation</path>
 		<original>The NDP process has not sent a Neighbor Solicitation for the replied IPv6 address recently. The device drops the packet.</original>
-		<text>新民主党过程尚未发送邻居请求回答最近IPv6地址。设备滴包。</text>
+		<text>新民主党过程尚未发送邻居请求应答最近IPv6地址。设备滴包。</text>
 	</item>
 	<item ok="1">
 		<path>@1/@358/@998/translation</path>
@@ -38374,7 +38374,7 @@ Click Cancel to stop waiting and save with current replied data.</original>
 	<item ok="1">
 		<path>@1/@358/@1560/translation</path>
 		<original>DHCP Snooping</original>
-		<text>DHCP窥探</text>
+		<text>DHCP监听</text>
 	</item>
 	<item ok="1">
 		<path>@1/@358/@1561/translation</path>
@@ -38399,7 +38399,7 @@ Click Cancel to stop waiting and save with current replied data.</original>
 	<item ok="1">
 		<path>@1/@358/@1565/translation</path>
 		<original>DHCP Snooping Binding DB Agent</original>
-		<text>DHCP窥探绑定DB代理</text>
+		<text>DHCP监听绑定DB代理</text>
 	</item>
 	<item ok="1">
 		<path>@1/@358/@1566/translation</path>
@@ -38609,12 +38609,12 @@ Click Cancel to stop waiting and save with current replied data.</original>
 	<item ok="1">
 		<path>@1/@358/@1607/translation</path>
 		<original>DHCP Snooping Trust</original>
-		<text>DHCP窥探信任</text>
+		<text>DHCP监听信任</text>
 	</item>
 	<item ok="1">
 		<path>@1/@358/@1608/translation</path>
 		<original>DHCP Snooping Limit Rate</original>
-		<text>DHCP窥探极限速度</text>
+		<text>DHCP监听极限速度</text>
 	</item>
 	<item ok="1">
 		<path>@1/@358/@1609/translation</path>
@@ -38704,42 +38704,42 @@ Click Cancel to stop waiting and save with current replied data.</original>
 	<item ok="1">
 		<path>@1/@358/@1626/translation</path>
 		<original>DHCP Snooping: The switch receives a [[MESSAGE_TYPE]] message from a DHCP server on an trusted port. The device drops the packet.</original>
-		<text>DHCP窥探：开关接收到[[MESSAGE_TYPE]]消息从DHCP服务器在一个信任端口。设备滴包。</text>
+		<text>DHCP监听：开关接收到[[MESSAGE_TYPE]]消息从DHCP服务器在一个信任端口。设备滴包。</text>
 	</item>
 	<item ok="1">
 		<path>@1/@358/@1627/translation</path>
 		<original>DHCP Snooping: The switch receives a [[MESSAGE_TYPE]] message on an untrusted port, and the source MAC address and the DHCP client hardware address do not match. The device drops the packet.</original>
-		<text>DHCP窥探：开关接收到[[MESSAGE_TYPE]]消息在一个不可信的端口,和源MAC地址和DHCP客户端硬件地址不匹配。设备滴包。</text>
+		<text>DHCP监听：开关接收到[[MESSAGE_TYPE]]消息在一个不可信的端口,和源MAC地址和DHCP客户端硬件地址不匹配。设备滴包。</text>
 	</item>
 	<item ok="1">
 		<path>@1/@358/@1628/translation</path>
 		<original>DHCP Snooping: The switch receives a [[MESSAGE_TYPE]] packet from an untrusted host with an entry in the DHCP snooping binding table, and the interface information in the binding table does not match the interface on which the message was received. The device drops the packet.</original>
-		<text>DHCP窥探：开关接收到[[MESSAGE_TYPE]]数据包从一个不受信任的主机的条目DHCP窥探绑定表,和绑定的接口信息表不匹配的接口消息收到。设备滴包。</text>
+		<text>DHCP监听：开关接收到[[MESSAGE_TYPE]]数据包从一个不受信任的主机的条目DHCP监听绑定表,和绑定的接口信息表不匹配的接口消息收到。设备滴包。</text>
 	</item>
 	<item ok="1">
 		<path>@1/@358/@1629/translation</path>
 		<original>DHCP Snooping: The switch receives a [[MESSAGE_TYPE]] message including a relay agent IP address that is not 0.0.0.0. The device drops the packet.</original>
-		<text>DHCP窥探：开关接收到[[MESSAGE_TYPE]]消息包括中继代理IP地址不是0.0.0.0。设备滴包。</text>
+		<text>DHCP监听：开关接收到[[MESSAGE_TYPE]]消息包括中继代理IP地址不是0.0.0.0。设备滴包。</text>
 	</item>
 	<item ok="1">
 		<path>@1/@358/@1630/translation</path>
 		<original>DHCP Snooping: The switch receives a [[MESSAGE_TYPE]] message that contains Option-82 on an untrusted port. The device drops the packet.</original>
-		<text>DHCP窥探：开关接收到[[MESSAGE_TYPE]]消息包含选项- 82一个不可信的端口上。设备滴包。</text>
+		<text>DHCP监听：开关接收到[[MESSAGE_TYPE]]消息包含选项- 82一个不可信的端口上。设备滴包。</text>
 	</item>
 	<item ok="1">
 		<path>@1/@358/@1631/translation</path>
 		<original>DHCP Snooping: The switch receives a [[MESSAGE_TYPE]] message that contains Option-82 on an untrusted port. The untrusted port is configured to accept DHCP packets with Option-82. The device processes the packet.</original>
-		<text>DHCP窥探：开关接收到[[MESSAGE_TYPE]]消息包含选项- 82一个不可信的端口上。不可信的端口配置为接受DHCP选项- 82包。该设备处理数据包。</text>
+		<text>DHCP监听：开关接收到[[MESSAGE_TYPE]]消息包含选项- 82一个不可信的端口上。不可信的端口配置为接受DHCP选项- 82包。该设备处理数据包。</text>
 	</item>
 	<item ok="1">
 		<path>@1/@358/@1632/translation</path>
 		<original>DHCP Snooping: The switch receives a [[MESSAGE_TYPE]] message.  Insertion of Option-82 is enabled on the switch. The switch inserts Option-82 into the DHCP message.</original>
-		<text>DHCP窥探：开关接收到[[MESSAGE_TYPE]]消息。插入- 82是启用的选项开关。开关插入选项- 82到DHCP消息。</text>
+		<text>DHCP监听：开关接收到[[MESSAGE_TYPE]]消息。插入- 82是启用的选项开关。开关插入选项- 82到DHCP消息。</text>
 	</item>
 	<item ok="1">
 		<path>@1/@358/@1633/translation</path>
 		<original>DHCP Snooping: The switch receives a [[MESSAGE_TYPE]] message.  The switch verifies that it originally inserted the Option-82 data. The switch removes Option-82 from the DHCP message.</original>
-		<text>DHCP窥探：开关接收到[[MESSAGE_TYPE]]消息。开关确认它最初插入选项- 82数据。开关删除选项- 82从DHCP消息。</text>
+		<text>DHCP监听：开关接收到[[MESSAGE_TYPE]]消息。开关确认它最初插入选项- 82数据。开关删除选项- 82从DHCP消息。</text>
 	</item>
 	<item ok="1">
 		<path>@1/@358/@1634/translation</path>
@@ -39189,7 +39189,7 @@ Click Cancel to stop waiting and save with current replied data.</original>
 	<item ok="1">
 		<path>@1/@358/@1723/translation</path>
 		<original>The device does not have a route to the network. It replies with infinity.</original>
-		<text>设备没有一条航线网络。它与无穷回答。</text>
+		<text>设备没有一条航线网络。它与无穷应答。</text>
 	</item>
 	<item ok="1">
 		<path>@1/@358/@1724/translation</path>
@@ -44205,7 +44205,7 @@ The FTP server checks whether the file exists and waits for the corresponding RN
 	<item ok="1">
 		<path>@1/@374/@8/translation</path>
 		<original>* These nodes are pulled from the Answer network. This Work Product Feature (WPF) will use the User network&apos;s nodes. So nodes that are not available may still be used if you know the expected path.</original>
-		<text>*这些节点从网络的答案。该工作产品特性(WPF)将使用用户网络的节点。所以节点不存在可能仍然使用如果你知道预期的路径。</text>
+		<text>*这些节点从网络的应答。该工作产品特性(WPF)将使用用户网络的节点。所以节点不存在可能仍然使用如果你知道预期的路径。</text>
 	</item>
 	<item ok="1">
 		<path>@1/@374/@9/translation</path>
@@ -44225,7 +44225,7 @@ The FTP server checks whether the file exists and waits for the corresponding RN
 	<item ok="1">
 		<path>@1/@374/@12/translation</path>
 		<original>This function takes in &quot;user&quot;, &quot;answer&quot;, or &quot;init&quot; as the first parameter. Typically, we want &quot;user&quot;. So, AssessmentModel.getAssessmentItemValue(&quot;user&quot;,</original>
-		<text>这个函数需要在“用户”,“答案”,或“init”作为第一个参数。通常,我们希望“用户”。所以,AssessmentModel.getAssessmentItemValue(“用户”,</text>
+		<text>这个函数需要在“用户”,“应答”,或“init”作为第一个参数。通常,我们希望“用户”。所以,AssessmentModel.getAssessmentItemValue(“用户”,</text>
 	</item>
 	<item ok="1">
 		<path>@1/@374/@13/translation</path>
